@@ -1,0 +1,289 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Name
+#       value: Sophie Belman
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Pathogen Genomics & Epidemiology
+      institution: University of Cambridge (Cambridge, UK) & Wellcome Trust Sanger Institute (Hinxton, UK)
+      year: 2019-2023
+      description:
+        - Awarded with no corrections
+        - "Supervisors: Professor Stephen Bentley & Professor Henrik Salje"
+        - "Thesis Title: Geographic Migration and Evolution of *Streptococcus pneumoniae*"
+    - title: MSc. in Medical Microbiology with Distinction
+      institution: London School of Hygiene and Tropical Medicine (London, UK &amp; Fajara, The Gambia)
+      year: 2017-2018
+      description:
+        - "Supervisors: Professor Martin Antonio & Dr. Madikay Senghore"
+        - "Dissertation Title: Towards understanding genomic drivers of antimicrobial resistance in Mycobacterium tuberculosis genomes from Ghana and Togo"
+    
+    - title: Bachelors in Biology (minor in neuroscience)
+      institution: Lewis and Clark College (Oregon, USA)
+      year: 2011-2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      location: Barcelona, Spain
+      institution: Barcelona Supercomputing Center - Centro Nacional de Supercomputación
+      year: 2023
+    - title: Postdoctoral Researcher
+      location: Hinxton, UK
+      institution: Wellcome Trust Sanger Institute
+      year: 2023
+    - title: Research Associate
+      location: Salt Lake City<br>UT, USA
+      institution: University of Utah, Department of Dermatology
+      year: 2018-2019
+    - title: Research Associate
+      location: Salt Lake City<br>UT, USA
+      institution: University of Utah, Huntsman Cancer Institute  
+      year: 2018-2019
+    - title: Research Associate (Industry)
+      location: Bozeman<br>MT, USA
+      institution: Takeda Pharmaceuticals 
+      year: 2016-2017
+    - title: Research Assistant (Industry)
+      location: Bozeman<br>MT, USA
+      institution: Montana Molecular 
+      year: 2015-2016
+    - title: Research Assistant
+      location: Portland<br>OR, USA
+      institution: Lewis & Clark College 
+      year: 2014-2015
+    - title: Research Assistant
+      location: Portland<br>OR, USA
+      institution: Vollum Institute, Oregon Health & Sciences University 
+      year: 2013-2015
+
+
+- title: Invited talks and Presentations
+  type: time_table
+  contents:
+    - title: Oral Presentation
+      location: Bologna, Italy
+      year: November 2023
+      description: Estimating Between Country Migration of the Global Opportunistic Pathogen Streptococcus pneumoniae
+    - title: Poster
+      location: Crete, Greece
+      year: May 2023
+      description: 
+        - Estimating Between Country Pneumococcal Migration
+        - (As a conference host I was ineligible for an oral presentation)
+    - title: Poster
+      location: Hinxton, UK
+      year: May 2023
+      description: Estimating Between Country Pneumococcal Migration
+    - title: Seminar
+      location: BSC-CNS<br> Barcelona, Spain
+      year: April 2023
+      description: Using genomic and human mobility data to elucidate the long-range migration of Streptococcus pneumoniae
+    - title: Poster
+      location: St. Johns College <br>Cambridge, UK
+      year: December 2022
+      description: Elucidating pneumococcal spatiotemporal dynamics in South Africa using genetic and human mobility data
+    - title: Seminar
+      location: University of Columbia <br> NYC, USA
+      year: May 2022
+      description: 
+        - "Migration of the pneumococcus: Using genomic and human mobility data to elucidate the long-range migration of Streptococcus pneumoniae"
+        - Invited by Professor Sen Pei at the Mailman School of Public Health
+    - title: Oral Presentation
+      location: Toronto, Canada
+      year: June 2022
+      description: Geographic Migration and Fitness Dynamics of Streptococcus pneumoniae
+    - title: Oral Presentation
+      location: Liverpool, UK
+      year: May 2022
+      description: Geographic Migration and Fitness Dynamics of Streptococcus pneumoniae
+    - title: Poster
+      location: Virtual
+      year: June 2021
+      description: Elucidating the Spatiotemporal Dynamics of Streptococcus pneumoniae in South Africa
+    - title: Oral Presentation
+      location: Virtual
+      year: November 2020
+      description: 
+        - 8th International Conference on Infectious Disease Dynamics, Epidemics 8.
+        - Pneumococcal Spatiotemporal Dynamics in South Africa
+    - title: Poster
+      location: Virtual
+      year: May 2020
+      description:
+        - Delineating the Perturbation by PCV13 in Composition of Streptococcus pneumoniae carriage isolates in Cambodia
+        - International Symposium on Pneumococci and Pneumococcal Diseases, 2020
+
+
+- title: Conferences hosted & Organised
+  type: time_table
+  contents:
+  - title: Travel Bursary Initiation and Management for Europneumo 16
+    location: Crete, GR
+    year: May 2023
+    # description: |
+      # In a first for this conference we provided travel bursaries for individuals from low
+      # and middle income countries. I applied for funding from ISPPD and the Gates
+      # foundation and received 15,000€ and 50,000$ respectively. I selected early career
+      # scientists given set criteria and submission of an abstract. I coordinated visa
+      # applications including visa invitation letters and writing pleas upon visa rejections. I
+      # organised a travel company to manage flights for all individuals, ensured
+      # transportation to and from the venue, and registration. Furthermore, I have written up
+      # a full report for the Gates Foundation including recommendations on funders ability
+      # to improve LMIC ECRs to attend such conferences given visa restrictions and time
+      # lines. including recommendations on funders' ability to improve LMIC ECRs to attend such conferences given visa restrictions and timelines.
+
+  - title: Conference Host for the 16th European Meeting on the Pneumococcus
+    location: Crete, GR
+    year: May 2023
+    # description: |
+      # 16 th European Meeting on the Pneumococcus Crete, Greece, www.europneumo.com
+      # Together with a team of two others I hosted and organised the 16th European
+      # Meeting on the Molecular Biology of the Pneumococcus in Crete, Greece in May
+      # 2023. This conference was attended by 180 participants and included 6 scientific
+      # sessions. We identified the venue, set the registration prices, applied for sponsorship
+      # funding, organised travel bursaries, helped to facilitate visas, organised two poster
+      # sessions, a gala dinner, a networking excursion. I was responsible for the finances
+      # managing the accounts, budgeting, and approving all invoices.ting, and approving all invoices.
+
+  - title: Symposium Organiser for Microbial Genomics Symposium
+    location: Wellcome Sanger <br> Institute (UK)
+    year: October 2021
+    # description: |
+      # I proposed and organised a microbial genomics symposium following the deficit of in-person interactions following the SARS-CoV-2 pandemic.
+      # The symposium included about 80 scientists from the teams of Professor Trevor Lawley, Professor Nicholas Thomson, and Professor Stephen Bentley at the Wellcome Sanger Institute.
+      # It comprised two sessions highlighting the science of early career researchers from March 2020 to October 2021.
+      # Additionally, we included team building, team photos, and arranged lunch and coffee breaks throughout.
+      # The day was a success in its initiation of new collaborations across teams and promoting in-person scientific interaction, including a reintroduction to giving scientific talks in person in front of an audience.
+
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: "Course Organiser - MPhil Population Health Sciences"
+      institution: School of Public Health, University of Cambridge, UK
+      year: Spring 2023
+
+    - title: "Supervisor - Pre-Doctoral Internship"
+      institution: European Bioinformatics Institute, Hinxton, UK
+      year: Autumn 2022
+      description: |
+        Project: Using Mutational Spectra to identify historical niche of the pneumococcus
+
+    - title: "Instructor - Bioinformatics Workshop"
+      institution: "ISPPD pre-conference workshop on bioinformatic methods for analysing pathogen genome data"
+      year: June 2022
+
+    - title: "Lecturer - MPhil Population Health Sciences"
+      institution: School of Public Health, University of Cambridge, UK
+      year: Spring 2022
+
+
+    - title: "Instructor - Pathogen Genomics Advanced Courses"
+      institution: Wellcome Connecting Sciences, Latin America & Cambridge, UK
+      year: February 2022
+      description: |
+        Week intensive course introducing Latin American microbiologists to computational tools to enable analysis of their genomic and transcriptomic data
+
+    - title: "Instructor - Pathogen Genomics"
+      institution: Department of Medical Genetics, University of Cambridge, UK
+      year: February 2021 <br>& 2022
+      description: MPhil in Genomic Medicine
+
+    - title: "Instructor - Pathogen Genomics"
+      institution: London School of Hygiene and Tropical Medicine
+      year: Spring 2020 <br>& 2021
+      description: MSc Module
+
+    - title: "Supervisor - PhD Project"
+      institution: Wellcome Sanger Institute, Hinxton, UK
+      year: Autumn 2021
+      description: |
+        Project: Using Genome Variation Data to Measure Spatial Spread of Streptococcus Pneumoniae in Israel.
+        Output: Presented Abstract, ISPPD 2022. Toronto, Canada; Paper in Preparation
+
+    - title: "Lecturer - Phylodynamics Masterclass"
+      institution: University of Cambridge, UK
+      year: May 2021
+      description: "Presented a phylodynamics masterclass to high-school students interested in studying biology at the University of Cambridge."
+
+
+- title: "Research Visits"
+  type: "time_table"
+  contents:
+    - title: "Probabilistic Inference Laboratory, University of Oslo"
+      year: "October 2022"
+      description: |
+        I visited the Probabilistic Inference Laboratory led by Professor Jukka Corander at the
+        University of Oslo for 5 weeks in Autumn 2022. I undertook training on developing
+        likelihood-free inference methods with the developers of the Engine for Likelihood-Free
+        Inference.
+
+    - title: "Medical Research Council, The Gambia"
+      year: "Summer 2018"
+      description: "I undertook my MSc dissertation"
+
+
+# - title: "Professional Service"
+  # type: "time_table"
+  # contents:
+  #   - title: "Publication Review"
+  #     description: "I have served as a reviewer for Microbial Genomics on two occasions. <a href='https://www.microbiologyresearch.org/content/journal/mgen'>Link</a>"
+
+  #   - title: "Race Equity Workshop"
+  #     date: "October 2022- March 2023"
+  #     description: "I attended a race equity workshop once a month in which we discussed inclusivity, language, and self-evaluation."
+
+  #   - title: "Equality Diversity and Inclusion Forum Member"
+  #     date: "September 2021- July 2023"
+  #     description: |
+  #       I have been a member of the EDI forum at the Wellcome Genome Campus, attending forum discussions three times a year towards improving EDI on-site.
+  #       Some of my contributions include addressing the approach to PhD applicants with English as a second language and building accessibility for wheelchair users.
+
+  #   - title: "Chairing Scientific Sessions"
+  #     date: "June 2022"
+  #     description: |
+  #       I chaired a session of poster talks at ISPPD 2022, Toronto. This included 10 talks for which I introduced the presenter, asked, and facilitated questions.
+
+  #   - title: "Hosted Podcast 'Decoding Life'"
+  #     date: "2021"
+  #     description: |
+  #       I hosted a season of the podcast <a href = https://open.spotify.com/show/2J2W9Ob3GHdTzRUh8GrUmq?si=e33e585b7ae241ae&nd=1&dlsi=47f9efe0203f4b2d>'Decoding Life'</a> in which we discussed the careers of female scientists at the Wellcome Genome Campus.
+  #       I have since received feedback from two current PhD students at the Wellcome Sanger Institute that this podcast contributed to their decision to pursue a PhD there.
+
+- title: "Recognition and Awards"
+  type: "time_table"
+  contents:
+    - title: "Doctoral Thesis Awarded with no corrections"
+      year: "July 2023"
+
+    - title: "Bill & Melinda Gates Foundation Conference Support Travel Bursary Grant"
+      year: "2023"
+      description: |
+        Award: $50,000
+        I was awarded this grant to provide funding for registration and travel for 20 early career researchers from GAVI eligible countries to attend Europneumo 16.
+        <a href='https://europneumo.com/hosts-and-committees'>Link to Europneumo 16</a>
+
+    - title: "Young Investigator Award Nominee for Oral Presentation"
+      year: "June 2022"
+      description: |
+        12th International Symposium on Pneumococci and Pneumococcal Diseases.
+        Geographic Migration and Fitness Dynamics of Streptococcus pneumoniae
+
+    - title: "Wellcome Sanger Institute 4 Year PhD Studentship"
+      year: "2019-2023"
+      # description: "Award: £100,000"
+
+    - title: "MSc Dissertation awarded with Distinction"
+      year: "September 2018"
+
+    - title: "Miller Internship Award"
+      year: "Summer 2013"
+      description: |
+        Award: $4600. 
+        Underwrites expenses of students at Lewis & Clark College who are engaged in scientific research internships in the mathematical and natural sciences. 
+        Sponsoring Institution: Oregon Health and Sciences University.
