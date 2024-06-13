@@ -4,30 +4,13 @@
 #     - name: Name
 #       value: Sophie Belman
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Pathogen Genomics & Epidemiology
-      institution: University of Cambridge (Cambridge, UK) & Wellcome Trust Sanger Institute (Hinxton, UK)
-      year: 2019-2023
-      description:
-        - Awarded with no corrections
-        - "Supervisors: Professor Stephen Bentley & Professor Henrik Salje"
-        - "Thesis Title: Geographic Migration and Evolution of *Streptococcus pneumoniae*"
-    - title: MSc. in Medical Microbiology with Distinction
-      institution: London School of Hygiene and Tropical Medicine (London, UK &amp; Fajara, The Gambia)
-      year: 2017-2018
-      description:
-        - "Supervisors: Professor Martin Antonio & Dr. Madikay Senghore"
-        - "Dissertation Title: Towards understanding genomic drivers of antimicrobial resistance in Mycobacterium tuberculosis genomes from Ghana and Togo"
-    
-    - title: Bachelors in Biology (minor in neuroscience)
-      institution: Lewis and Clark College (Oregon, USA)
-      year: 2011-2015
-
 - title: Experience
   type: time_table
   contents:
+    - title: Schmidt Science Fellow
+      location: Barcelona Spain
+      institution: Barcelona Supercomputing Center - Centro Nacional de Supercomputación
+      year: 2024
     - title: Postdoctoral Researcher
       location: Barcelona, Spain
       institution: Barcelona Supercomputing Center - Centro Nacional de Supercomputación
@@ -60,11 +43,35 @@
       location: Portland<br>OR, USA
       institution: Vollum Institute, Oregon Health & Sciences University 
       year: 2013-2015
-
+      
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Pathogen Genomics & Epidemiology
+      institution: University of Cambridge (Cambridge, UK) & Wellcome Trust Sanger Institute (Hinxton, UK)
+      year: 2019-2023
+      description:
+        - Awarded with no corrections
+        - "Supervisors: Professor Stephen Bentley & Professor Henrik Salje"
+        - "Thesis Title: Geographic Migration and Evolution of *Streptococcus pneumoniae*"
+    - title: MSc. in Medical Microbiology with Distinction
+      institution: London School of Hygiene and Tropical Medicine (London, UK &amp; Fajara, The Gambia)
+      year: 2017-2018
+      description:
+        - "Supervisors: Professor Martin Antonio & Dr. Madikay Senghore"
+        - "Dissertation Title: Towards understanding genomic drivers of antimicrobial resistance in Mycobacterium tuberculosis genomes from Ghana and Togo"
+    
+    - title: Bachelors in Biology (minor in neuroscience)
+      institution: Lewis and Clark College (Oregon, USA)
+      year: 2011-2015
 
 - title: Invited talks and Presentations
   type: time_table
   contents:
+    - title: Plenary
+      location: Cape Town, South Africa
+      year: March 2024
+      description: Advances in Pneumococcal Genomics and Patterns of Geographical Migration of Pneumococcal Strains
     - title: Oral Presentation
       location: Bologna, Italy
       year: November 2023
@@ -122,6 +129,9 @@
 - title: Conferences hosted & Organised
   type: time_table
   contents:
+  - title: Scientific Committee Member | Europneumo 2024
+    location: Azores, Portugal
+    
   - title: Travel Bursary Initiation and Management for Europneumo 16
     location: Crete, GR
     year: May 2023
@@ -258,6 +268,10 @@
 - title: "Recognition and Awards"
   type: "time_table"
   contents:
+    - title: Robert Austrian Research Award in Pneumococcal Vaccinology 2024
+      year: "March 2024"
+      description: Awarded to Investiage the compound effects of air quality, meteorology, and pathogen population genetics on pneumococcal disease in a Bayesian Hierarchical Framework.
+      
     - title: "Doctoral Thesis Awarded with no corrections"
       year: "July 2023"
 
