@@ -62,12 +62,20 @@
         - "Dissertation Title: Towards understanding genomic drivers of antimicrobial resistance in Mycobacterium tuberculosis genomes from Ghana and Togo"
     
     - title: Bachelors in Biology (minor in neuroscience)
-      institution: Lewis and Clark College (Oregon, USA)
+      institution: Lewis and Clark College (Portland, Oregon, USA)
       year: 2011-2015
 
 - title: Invited talks and Presentations
   type: time_table
   contents:
+    - title: Wellcome Genomic Futures: Our Relationship to Microbial Life
+      location: Bangkok, Thailand
+      year: March 2025
+      description: Invited Expert to Wellcome workshop on the future of microbial genomics up to 2050.
+    - title: Oral Presentation
+      location: Tokyo, Japan
+      year: November, 2024
+      description: Assessing the relationship between population genomic indicators and environmental variables in pneumococcal disease.
     - title: Plenary
       location: Cape Town, South Africa
       year: March 2024
